@@ -1,6 +1,11 @@
 #include "stdio.h"
-#include "src/lessons/lesson_1/lesson_1.c"
+#include "src/lessons/lesson_2/lesson_2.c"
 
 int main() {
-    lesson_1();
+    printf("\n");
+
+    lesson_2();
+
+    printf("\n");
+    printf("\n");
 }

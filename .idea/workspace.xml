@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="374dd2c7-e9ea-4418-ad8a-33d0575a9979" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson_2/lesson_2.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_2/lesson_2.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2iuWValfxASw7tBydRrCdSPiW4b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="207" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720341009066">
+      <screen x="46" y="23" width="1394" height="877" />
+    </state>
+    <state x="207" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.23.1394.877@46.23.1394.877" timestamp="1720341009066" />
+    <state x="244" y="100" key="SettingsEditor" timestamp="1720341049035">
+      <screen x="46" y="23" width="1394" height="877" />
+    </state>
+    <state x="244" y="100" key="SettingsEditor/46.23.1394.877@46.23.1394.877" timestamp="1720341049035" />
+  </component>
+</project>
